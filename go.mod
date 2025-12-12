@@ -1,5 +1,4 @@
 module github.com/timgerkb/go-bip39
-
 go 1.15
 
 require (
